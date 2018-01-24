@@ -1,0 +1,8 @@
+{
+  "name": "zsprep",
+  "app_id": "d8aff113",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
